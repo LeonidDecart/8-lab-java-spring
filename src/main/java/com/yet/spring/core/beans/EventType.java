@@ -1,8 +1,11 @@
 package com.yet.spring.core.beans;
 
 public enum EventType {
-	
+
+	DEBUG,
 	INFO,
-	ERROR;
+	WARN,
+	ERROR,
+	FATAL;
 
 }
