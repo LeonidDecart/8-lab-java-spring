@@ -81,5 +81,4 @@ public class App {
     public EventLogger getDefaultLogger() {
         return defaultLogger;
     }
-
 }
